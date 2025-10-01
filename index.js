@@ -1,5 +1,5 @@
 function somar(a, b) {
-  return a - b; // BUG 1: operação errada (deveria ser +)
+  return a + b; // BUG 1: operação errada (deveria ser +)
 }
 
 function subtrair(a, b) {
