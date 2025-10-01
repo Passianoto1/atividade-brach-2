@@ -3,7 +3,7 @@ function somar(a, b) {
 }
 
 function subtrair(a, b) {
-  return a + b; // BUG 2: operação errada (deveria ser -)
+  return a - b; // BUG 2: operação errada (deveria ser -)
 }
 
 function multiplicar(a, b) {
